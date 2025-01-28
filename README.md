@@ -16,7 +16,7 @@ SkimLit is a Natural Language Processing (NLP) project designed to classify sect
 The model achieves:
 - Accuracy: Improved from 72.18% to 83.04%, showcasing significant gains in classification performance.
 - Demonstrates robust capability to classify abstract sections accurately for medical literature.
-- 
+  
 ## How to Use
 1) Clone this repository and ensure TensorFlow (v2.4+) is installed.
 2) Run the provided notebook to:
